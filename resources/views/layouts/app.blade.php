@@ -26,6 +26,9 @@
     .big-baner{
         background-image:url(5.jpg);
     }
+    .big-bner{
+        background-image:url(4.jpg);
+    }
 </style>
 <body>
     <div id="app" class="bg-secondary">

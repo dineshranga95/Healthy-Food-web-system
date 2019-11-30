@@ -1,7 +1,9 @@
 @extends('layouts.app')
 
+
 @section('content')
-<div class="container">
+<div class="jumbotran big-bner">
+<div class="container" style="margin:50px;">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card" style="margin:100px;">
@@ -19,5 +21,6 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 @endsection

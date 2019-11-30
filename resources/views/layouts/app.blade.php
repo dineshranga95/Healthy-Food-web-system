@@ -19,6 +19,14 @@
     <!-- Styles -->
     <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
 </head>
+<style>
+    .big-banner{
+        background-image:url(8.jpg);
+    }
+    .big-baner{
+        background-image:url(5.jpg);
+    }
+</style>
 <body>
     <div id="app" class="bg-secondary">
         <nav class="navbar navbar-expand-md navbar-dark bg-dark shadow-sm">

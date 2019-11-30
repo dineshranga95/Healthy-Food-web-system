@@ -1,10 +1,11 @@
 @extends('layouts.app') 
 
 @section('content')
+<div class="jumbotran big-baner">
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
-            <div class="card bg-light" style="margin:50px">
+            <div class="card bg-dark text-white" style="margin:50px">
                 <div class="card-header">{{ __('Register') }}</div>
 
                 <div class="card-body">
@@ -82,5 +83,6 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 @endsection

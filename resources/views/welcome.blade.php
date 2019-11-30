@@ -13,7 +13,7 @@
         <link href="{{ asset('assets/css/bootstrap.min.css') }}" rel="stylesheet">
         <script src="{{ asset('assets/js/core/bootstrap.min.js') }}" defer></script>
       </head>
-    <body class="bg-secondary">
+    <body >
             <nav class="navbar navbar-expand-sm navbar-dark bg-dark shadow-sm">
               <div class="container">
                     <a class="navbar-brand" href="#">FOODS</a>
@@ -33,12 +33,16 @@
                     </div>
                   </nav>
 
-                <div class="row justify-content-center" style="margin:200px">
-                  <div class="col-10"style="font-size:84px;">
-                      Healthy food system
-                  </div>  
-                                   
-                  </div>
+                  <div class="row justify-content-center" >
+                    <div class="col-10"style="font-size:100px; color:dark">
+                        HEALTHY FOOD SYSTEM
+                    </div>                   
+                    </div>
+                  <div class="row justify-content-center">
+                    <div class="col-md-12">
+                        <img src="2.jpg" alt="" width="100%" height="500px">  
+                      </div>                
+                 </div>  
                
                                
         </div>

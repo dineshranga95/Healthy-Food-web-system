@@ -1,8 +1,9 @@
 @extends('layouts.app') 
 
 @section('content')
-<div class="jumbotran big-baner">
 <div class="container">
+    
+<div class="jumbotran big-baner">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card bg-dark text-white" style="margin:50px">

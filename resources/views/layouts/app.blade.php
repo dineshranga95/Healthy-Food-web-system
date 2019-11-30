@@ -27,7 +27,7 @@
         background-image:url(5.jpg);
     }
     .big-bner{
-        background-image:url(4.jpg);
+        background-image:url(10.jpg);
     }
 </style>
 <body>

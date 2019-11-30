@@ -2,8 +2,9 @@
 
 
 @section('content')
-<div class="jumbotran big-bner">
+
 <div class="container" style="margin:50px;">
+    <div class="jumbotran big-bner">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card" style="margin:100px;">
